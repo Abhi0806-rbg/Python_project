@@ -1,0 +1,14 @@
+Note:
+
+Load data from coursedata.csv and perform the following operations:
+
+	1. Get all students by the given qualification
+	2. Get count of all the students by qualification
+	3. Get count of students who got placed
+	4. Get count of student who completed course but not placed
+	5. Get count of placed and not placed student
+	6. Search student by the given name
+	7. Get average success rate of the given batch
+	8. Get max percentage scored Student details
+	9. Get all the student name only
+	10. Get all the student name,qualification,score
